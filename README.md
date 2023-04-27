@@ -75,6 +75,7 @@
 - [GNU/NT](https://forums.justlinux.com/showthread.php?96517-M-Hypothetical-GNU-NT-Operating-System)
 - [Hacker's Delight](https://www.amazon.fr/Hackers-Delight-Henry-S-Warren/dp/0321842685)
 - [Haskell - Abusing the algebra of algebraic data types - why does this work? - Stack Overflow](https://stackoverflow.com/questions/9190352/abusing-the-algebra-of-algebraic-data-types-why-does-this-work?noredirect=1&lq=1)
+- [Harder Drive: Hard drives we didn't want or need](https://www.youtube.com/watch?v=JcJSW7Rprio)
 - [Herbie: Automatically Improving Floating Point Accuracy](http://herbie.uwplse.org/)
 - [History of the browser user-agent string](https://webaim.org/blog/user-agent-string-history/)
 - [History of Web Browser Engines from 1990 until today](https://eylenburg.github.io/browser_engines.htm)
