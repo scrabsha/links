@@ -106,6 +106,7 @@
 - [Linguistic antipatterns](http://www.linguistic-antipatterns.com/)
 - [Linux in a Pixel Shader - A RISC-V Emulator for VRChat](https://blog.pimaker.at/texts/rvc1/)
 - [Low-Level Academy](https://lowlvl.org/)
+- ["Low-Resource" Text Classification: A Parameter-Free Classification Method with Compressors](https://aclanthology.org/2023.findings-acl.426.pdf)
 - [main is usually a function: x86 is Turing-complete with no registers](https://mainisusuallyafunction.blogspot.com/2014/02/x86-is-turing-complete-with-no-registers.html)
 - [Make A Language · arzg’s website](https://arzg.github.io/lang/)
 - [Making sense of TypeScript using set theory](https://blog.thoughtspile.tech/2023/01/23/typescript-sets/)
